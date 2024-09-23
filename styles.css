@@ -53,10 +53,6 @@ h3 {
     background-color:#6c757d;
     border-color: black;
 }
-.btn-primary:active {
-    background-color: #696969;
-}
-
 
 .btn-secondary {
     position: absolute;
